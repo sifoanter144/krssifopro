@@ -2,7 +2,7 @@
 
 import os, sys, platform
 
-os.system('xdg-open https://www.facebook.com/groups/207678473842318/')
+os.system('xdg-open https://www.facebook.com/sifo.anter.Officiel')
 
 try:
 
